@@ -15,7 +15,5 @@ public static void main(String args[]) {
 
 
 
-        getContentPane().setLayout(null);
-         janela.setVisible(true);
 }
 }
